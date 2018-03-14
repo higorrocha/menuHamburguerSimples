@@ -1,0 +1,14 @@
+* { 
+    margin: 0 auto; 
+    font-family: sans-serif; 
+}
+header {
+	height: 70px;
+	background-color: #c33bec;
+	display: flex;
+	align-items: center;
+}
+header .topo {
+	position: absolute;
+	left: 10%;
+}
