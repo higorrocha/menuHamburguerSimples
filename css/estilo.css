@@ -36,3 +36,6 @@ nav.menu > a {
     color: #000000;
     text-transform: uppercase;
 }
+.exibe_menu {
+	left: 0!important;
+}
