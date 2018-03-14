@@ -39,3 +39,10 @@ nav.menu > a {
 .exibe_menu {
 	left: 0!important;
 }
+
+@media screen and (max-width: 360px) {
+	nav.menu {
+		width: 100%;
+		left: -100%; 
+	}
+}
