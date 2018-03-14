@@ -10,7 +10,7 @@ header {
 }
 header .topo {
 	position: absolute;
-	left: 10%;
+	left: 20px;
 }
 header > .topo a.icone_menu i {
 	color: #000;
